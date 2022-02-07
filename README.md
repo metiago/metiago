@@ -2,7 +2,7 @@
 
 I entitled myself  “software developer”, aware that I would not be one If my professors and all other programmers around the world would not exist. They are the reasons that allowed me one day to be a software developer. If their knowledge hadn't been shared, how would I be a programmer ?
 
-Learning forever....
+Learning is forever....
 
 <!--
 **metiago/metiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
