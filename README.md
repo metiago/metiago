@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I entitled myself “software developer”, aware that I can execute this role only because my professors and all other programmers around the world exist. These people are reasons that contributed toward my evolution as software developer. If their knowledge hadn't been shared, how would I be a “software developer” ?
+I entitled myself “software developer”, aware that everything is connected, and also If my professors and all other programmers around the world do not exist I would not be able to execute this role.
+These people are reasons that contributed toward my evolution as software developer. If their knowledge hadn't been shared, how would I be a “software developer” ?
 
 Learning is forever... More about me at: https://portfolio-3ada6.firebaseapp.com/
 
