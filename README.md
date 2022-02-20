@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I entitled myself  “software developer”, aware that I would not be one If my professors and all other programmers around the world would not exist. They are the reasons that allowed me one day to be a software developer. If their knowledge hadn't been shared, how would I be a programmer ?
+Hi there 👋
+I entitled myself “software developer”, aware that I can execute this role only because my professors and all other programmers around the world exist. These people are reasons that contributed toward my evolution as software developer. If their knowledge hadn't been shared, how would I be a “software developer” ?
 
-Learning is forever, all are one...
+Learning is forever... More about me at: https://portfolio-3ada6.firebaseapp.com/
 
 <!--
 **metiago/metiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
